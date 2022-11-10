@@ -1,0 +1,15 @@
+clear all;
+close all;
+F1=50;
+F2=50;
+N=3;
+A1=5;
+A2=6;
+Vo1=18;
+Vo2=-18;
+tip=1;
+R1=5;
+R2=10;
+R3=2;
+R4=3; 
+diferential(tip,R1,R2,R3,R4,A1,A2,F1,F2,N,Vo1,Vo2);
